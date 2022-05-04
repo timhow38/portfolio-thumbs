@@ -1,2 +1,3 @@
-# portfolio-thumbs
- Portfolio Overview
+<div align="center">
+  <img src="readme-img.png" alt="Thumbnail" />
+</div>
