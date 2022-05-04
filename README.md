@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme-assets/readme-img.png" alt="Thumbnail" />
+  <img src="/ReadMe-Assets/readme-img.png" alt="Thumbnail" />
 </div>
 
 # Portfolio Overview
