@@ -8,8 +8,9 @@ Repository containing thumbnails of as many of my projects as I could find.
 
 ### Downloading
 
-1. Use the following url to download this project: 
+Use the following url to download this project: 
 `https://github.com/timhow38/portfolio-thumbs/archive/refs/heads/main.zip`
+Or click on the green button that says "Code" select download.
 
 ## Website Content
 
